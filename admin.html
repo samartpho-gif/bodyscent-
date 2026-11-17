@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>จัดการคำสั่งซื้อ (Admin) | Body Scent</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="nav-container">
+      <a href="index.html" class="brand-logo">Body Scent</a>
+      <nav class="nav-links">
+        <a href="index.html" class="">หน้าแรก</a>
+        <a href="product.html" class="">สินค้าทั้งหมด</a>
+        <a href="order.html" class="">สั่งซื้อสินค้า</a>
+        <a href="admin.html" class="active">แอดมิน</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="section-header">
+      <span class="section-subtitle">Admin Dashboard</span>
+      <h1 class="section-title">รายการคำสั่งซื้อทั้งหมด</h1>
+    </div>
+
+    <div class="table-wrap">
+      <table id="ordersTable">
+        <thead>
+          <tr>
+            <th>วันเวลา</th>
+            <th>ชื่อลูกค้า</th>
+            <th>เบอร์โทร/Line</th>
+            <th>รายการสินค้า</th>
+            <th>จำนวนเงินรวม</th>
+            <th>หมายเหตุ</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 BODY SCENT &mdash; Crafted Fragrance for Every Mood.</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

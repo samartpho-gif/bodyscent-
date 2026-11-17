@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bs-fresh-30",
+    "name": "Body Mist Fresh เล็ก 30ml",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "ปลุกความสดชื่นโปร่งสบาย พกพาง่าย เติมพลังความสะอาดมั่นใจได้ทุกที่ตลอดวัน"
+  },
+  {
+    "id": "bs-fresh-100",
+    "name": "Body Mist Fresh ใหญ่ 100ml",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นหอมโปร่งสะอาดเบาสบาย ขวดใหญ่คุ้มค่า สำหรับฉีดพรมเติมความสดใสในทุกเช้า"
+  },
+  {
+    "id": "bs-sweet-30",
+    "name": "Body Mist Sweet เล็ก 30ml",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "ความหอมหวานละมุนอ่อนโยนในขนาดพกพา มอบความรู้สึกอบอุ่นน่ารักอย่างเป็นธรรมชาติ"
+  },
+  {
+    "id": "bs-sweet-100",
+    "name": "Body Mist Sweet ใหญ่ 100ml",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "สัมผัสความหวานแผ่วเบาที่โอบกอดอย่างสบายใจ เผยเสน่ห์ความน่ารักละมุนตลอดทั้งวัน"
+  },
+  {
+    "id": "bs-confident-30",
+    "name": "Body Mist Confident เล็ก 30ml",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นหอมนิ่งสะอาดดูดี พกติดกระเป๋าเพื่อเสริมภาพลักษณ์ความน่าเชื่อถือก่อนนัดสำคัญ"
+  },
+  {
+    "id": "bs-confident-100",
+    "name": "Body Mist Confident ใหญ่ 100ml",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "เอกลักษณ์ความหอมสุขุมเรียบหรู สะท้อนตัวตนที่มั่นใจและพร้อมพบปะผู้คนอย่างสง่างาม"
+  },
+  {
+    "id": "bs-romance-30",
+    "name": "Body Mist Romance เล็ก 30ml",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "เติมเสน่ห์ความหอมอบอุ่นน่าหลงใหลในไซส์มินิ ชวนให้จดจำในทุกช่วงเวลาพิเศษ"
+  },
+  {
+    "id": "bs-romance-100",
+    "name": "Body Mist Romance ใหญ่ 100ml",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "ความหอมหวานลุ่มลึกชวนหลงใหล สร้างบรรยากาศสุดโรแมนติกที่น่าประทับใจไม่รู้ลืม"
+  },
+  {
+    "id": "bs-rollon-fresh",
+    "name": "โรลออน Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": "50ml",
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "โรลออนระงับกลิ่นกายสูตรสดชื่น ให้สัมผัสแห้งสบายสะอาดยาวนาน มั่นใจไร้กังวล"
+  },
+  {
+    "id": "bs-rollon-sweet",
+    "name": "โรลออน Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": "50ml",
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "โรลออนกลิ่นหวานละมุนอ่อนโยน ปกป้องมั่นใจพร้อมมอบความหอมนุ่มนวลตลอดวัน"
+  }
+]
